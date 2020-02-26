@@ -4,3 +4,6 @@
 [submodule "Plugins/FMODStudio"]
 	path = Plugins/FMODStudio
 	url = git@github.com:wzq94qzw/GrasshopperFmod.git
+[submodule "Plugins/Fsound"]
+	path = Plugins/Fsound
+	url = git@github.com:wzq94qzw/GrasshopperSoundPlugin.git
