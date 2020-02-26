@@ -34,6 +34,10 @@
 		{
 			"Name": "FMODStudio",
 			"Enabled": true
+		},
+		{
+			"Name": "Fsound",
+			"Enabled": true
 		}
 	]
 }
